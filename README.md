@@ -6,9 +6,11 @@
   * X: [@khcrysalis](https://x.com/khcrysalis)
   * Email: `echo 'Zmxvd2VyQHBhbGVyYS5pbg==' | base64 -d`
 
-# 
-
  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/khcrysalis)
+
+#
+
+Feel free to check out the projects below, sometimes words aren't enough.
 
 <!--
 **saicaca/saicaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
