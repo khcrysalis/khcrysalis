@@ -10,7 +10,7 @@
 
 #
 
-Feel free to check out the projects below, sometimes words aren't enough.
+Feel free to check out the projects below, sometimes the words aren't enough
 
 <!--
 **saicaca/saicaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
